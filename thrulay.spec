@@ -6,6 +6,7 @@ Release:	0.1
 License:	BSD Like (see included LICENSE)
 Group:		Applications
 Source0:	http://shlang.com/thrulay/%{name}-%{version}.tar.gz
+# Source0-md5:	725fb13344608a652e818bcd16fe9ef6
 Patch0:		%{name}-DESTDIR.patch
 Patch1:		%{name}-mandir.patch
 URL:		http://www.internet2.edu/~shalunov/thrulay/
