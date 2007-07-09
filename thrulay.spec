@@ -17,8 +17,8 @@ The program thrulay is used to measure the capacity of a network by
 sending a bulk TCP stream over it.
 
 %description -l pl.UTF-8
-Narzędzie służące do mierzenia pojemności sieci przez wysyłanie
-przez nią strumieni TCP.
+Narzędzie służące do mierzenia pojemności sieci przez wysyłanie przez
+nią strumieni TCP.
 
 %prep
 %setup -q
