@@ -2,9 +2,9 @@ Summary:	thrulay
 Summary(pl.UTF-8):	thrulay
 Name:		thrulay
 Version:	0.8
-Release:	0.1
+Release:	1
 License:	BSD Like (see included LICENSE)
-Group:		Applications
+Group:		Networking
 Source0:	http://shlang.com/thrulay/%{name}-%{version}.tar.gz
 # Source0-md5:	725fb13344608a652e818bcd16fe9ef6
 Patch0:		%{name}-DESTDIR.patch
