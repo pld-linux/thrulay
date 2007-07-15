@@ -1,5 +1,5 @@
-Summary:	thrulay
-Summary(pl.UTF-8):	thrulay
+Summary:	thrulay - measuring capacity of a network
+Summary(pl.UTF-8):	thrulay - określanie przepustowości sieci
 Name:		thrulay
 Version:	0.8
 Release:	1
