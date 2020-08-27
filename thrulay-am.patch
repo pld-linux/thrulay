@@ -1,0 +1,16 @@
+--- thrulay-0.9/src/Makefile.am.orig	2006-08-19 01:12:30.000000000 +0200
++++ thrulay-0.9/src/Makefile.am	2020-08-26 21:24:34.766332826 +0200
+@@ -26,11 +26,11 @@
+ 
+ thrulay_SOURCES = thrulay.h thrulay.c
+ 
+-thrulay_LDFLAGS = libthrulay.la
++thrulay_LDADD = libthrulay.la
+ 
+ thrulayd_SOURCES = thrulayd.h thrulayd.c
+ 
+-thrulayd_LDFLAGS = libthrulay.la
++thrulayd_LDADD = libthrulay.la
+ 
+ indent:
+ 	$(INDENT) -orig *.c *.h
